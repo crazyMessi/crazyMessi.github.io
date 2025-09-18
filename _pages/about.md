@@ -19,12 +19,22 @@ My recent work focuses on developing efficient algorithms for scene-level point 
 
 ## Publications
 
-<img src="../images/dacpo_teaser.jpg" alt="DACPO Teaser" style="width: 100%; margin: 20px 0;">
-
-**A Divide-and-Conquer Approach for Global Orientation of Non-Watertight Scene-Level Point Clouds Using 0-1 Integer Optimization**
-*Zhuodong Li*, Fei Hou, Wencheng Wang, Xuequan Lu, Ying He
-*ACM Transactions on Graphics*, 2025
-[[Paper]](https://doi.org/10.1145/3730923) [[arXiv]](https://arxiv.org/abs/2505.23469)
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <div style="flex-shrink: 0; margin-right: 20px;">
+    <img src="../images/dacpo_teaser.jpg" alt="DACPO Teaser" style="width: 120px; height: auto; border: 1px solid #ddd;">
+  </div>
+  <div>
+    <h3 style="color: #D2691E; margin-top: 0; margin-bottom: 8px; font-size: 18px;">A Divide-and-Conquer Approach for Global Orientation of Non-Watertight Scene-Level Point Clouds Using 0-1 Integer Optimization</h3>
+    <p style="margin: 5px 0; font-style: italic;"><strong>Zhuodong Li</strong>, Fei Hou, Wencheng Wang, Xuequan Lu, Ying He</p>
+    <p style="margin: 5px 0; font-weight: bold;">ACM Transactions on Graphics 2025</p>
+    <p style="margin: 10px 0;">
+      <a href="https://doi.org/10.1145/3730923" style="margin-right: 10px;">[Paper]</a>
+      <a href="https://arxiv.org/abs/2505.23469" style="margin-right: 10px;">[arXiv]</a>
+      <a href="#" style="margin-right: 10px;">[Code]</a>
+      <a href="#" style="margin-right: 10px;">[BibTex]</a>
+    </p>
+  </div>
+</div>
 
 You can find my CV here: [Zhuodong Li's Curriculum Vitae](../assets/autoCV.pdf).
 

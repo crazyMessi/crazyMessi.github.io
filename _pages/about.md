@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="images/self.jpg" alt="Zhuodong Li" style="float: right; margin-left: 20px; margin-bottom: 20px; border-radius: 10px;">
+<!-- <img src="images/self.jpg" alt="Zhuodong Li" style="float: right; margin-left: 20px; margin-bottom: 20px; border-radius: 10px;"> -->
 
 I'm a M.S. student in Computer Graphics at the [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/). My research interests include computer graphics, point cloud processing, mesh processing, and geometric modeling.
 

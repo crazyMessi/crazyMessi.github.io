@@ -31,6 +31,7 @@ My recent work focuses on developing efficient algorithms for scene-level point 
       <a href="https://doi.org/10.1145/3730923" style="margin-right: 10px;">[Paper]</a>
       <a href="https://arxiv.org/abs/2505.23469" style="margin-right: 10px;">[arXiv]</a>
       <a href="https://github.com/zd-lee/DACPO" style="margin-right: 10px;">[Code]</a>
+      <a href="assets/dacpo.bib" style="margin-right: 10px;">[BibTex]</a>
     </p>
   </div>
 </div>

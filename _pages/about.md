@@ -38,4 +38,4 @@ My recent work focuses on developing efficient algorithms for scene-level point 
 
 You can find my CV here: [Zhuodong Li's Curriculum Vitae](assets/autoCV.pdf).
 
-[Email](mailto:crazyMessi@ios.ac.cn) / [Github](https://github.com/crazyMessi)
+[Email](mailto:lizd@ios.ac.cn) / [Github](https://github.com/crazyMessi)

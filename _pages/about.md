@@ -13,9 +13,12 @@ I'm a M.S. student in Computer Graphics at the [University of Chinese Academy of
 
 I am very fortunate to be advised by [Prof. Fei Hou](https://lcs.ios.ac.cn/~houf/index.html) from the Institute of Software, Chinese Academy of Sciences.
 
-I received my B.S. degree in Digital Media Technology from [Shandong University](https://www.sdu.edu.cn/) in 2023. Currently, I'm working on various projects related to point cloud orientation, neural-based methods for geometric processing, and mesh analysis.
+I received my B.S. degree in Digital Media Technology from [Shandong University](https://www.sdu.edu.cn/) in 2023. 
 
-My recent work focuses on developing efficient algorithms for scene-level point cloud processing, particularly in the area of normal orientation for non-watertight point clouds. I have published research in top-tier graphics venues including ACM Transactions on Graphics.
+I am currently seeking a Ph.D. position for fall 2026 enrollment.
+
+My primary research focus during graduate studies was point cloud orientation, specifically determining normal orientation consistency for non-watertight point clouds. Related work has been accepted by SIGGRAPH 2025 and published in ACM Transactions on Graphics. I aspire to leverage my experience in geometric processing to tackle challenges in 3D generation during my doctoral studies. I may also pursue other graphics-related domains such as 3D reconstruction and geometric processing.
+
 
 ## Publications
 
